@@ -1,3 +1,4 @@
+HI, I'M MANNAN
 # 💫 About Me:
 ​🔭 I'm currently working on: My portfolio website and exploring advanced React layouts.<br>​👯 I'm looking to collaborate on: Open-source web development projects or front-end design challenges.<br>​💛 I'm looking for help with: Improving my skills in CSS animations and interactive web design.<br>​🌱 I'm currently learning: Advanced React, TypeScript, and interactive UI components.<br>​💬 Ask me about: HTML5, CSS, React, and my experience with web deployment on Netlify.<br>​⚡ Fun fact: I'm a ninth-grade student who loves to build and deploy web projects in my spare time!
 
