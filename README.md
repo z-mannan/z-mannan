@@ -1,5 +1,12 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=150&text=Mannan%20&fontSize=50&fontColor=61DAFB&fontAlignY=45&animation=twinkling&section=header" />
+
+
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi there!
-# 💫 About Me:
+
+<div align="center">
+    <picture><img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" align="center" style="width: 100%" /><picture>
+</div>
+<br> # 💫 About Me:
 ​🔭 I'm currently working on: My portfolio website and exploring advanced React layouts.<br>​👯 I'm looking to collaborate on: Open-source web development projects or front-end design challenges.<br>​💛 I'm looking for help with: Improving my skills in CSS animations and interactive web design.<br>​🌱 I'm currently learning: Advanced React, TypeScript, and interactive UI components.<br>​💬 Ask me about: HTML5, CSS, React, and my experience with web deployment on Netlify.<br>​⚡ Fun fact: I'm a ninth-grade student who loves to build and deploy web projects in my spare time!
 
 
