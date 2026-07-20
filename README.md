@@ -38,13 +38,7 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=z-mannan&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://komarev.com/ghpvc/?username=z-mannan&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<a href="https://github.com/z-mannan/z-mannan">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="dark.svg">
-    <img alt="GitHub Profile README" src="light.svg">
-  </picture>
-</a>
+
+
+
